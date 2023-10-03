@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "# Hi 👋, I'm Ryan Martin"
-excerpt: "About me"
+excerpt: "About me."
 author_profile: true
 redirect_from: 
   - /about/
