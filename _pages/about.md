@@ -8,20 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-![Image](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
-
-
-
 ### Business Intelligence Analyst
 
 <img align="right" alt="Coding" width="100%" src="https://assets.editorial.aetnd.com/uploads/2009/11/yosemite-3.jpg">
 
 - 🎓 Gruadated from **University of California- San Diego** 
 - 📊 Major: **Probability and Statisitics** 
-- 📈 Minor: Buisness Management
-- 👨‍🏫 Currently working as a **Math Teacher** for Jinor high and Highscool students
+- 📈 Minor: **Buisness Management**
+- 👨‍🏫 Currently working as a **Math Teacher** for Jinor High and Highscool students
 - 🌱 I’m currently learning **MI, DL, and AI**
-- 💬 Ask me about **Python**
+- 💬 Ask me about **Python | SQL | Excel**
 - 📫 How to reach me: [ryanmartinsd@gmail.com](mailto:ryanmartinsd@gmail.com)
 
 <div>
