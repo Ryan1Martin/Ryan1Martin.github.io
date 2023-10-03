@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-![Image](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg){width="100%"}
+![Image](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
 
 
 ### Business Intelligence Analyst
 
-<img align="right" alt="Coding" width="400" src="https://assets.editorial.aetnd.com/uploads/2009/11/yosemite-3.jpg">
+<img align="right" alt="Coding" width="100%" src="https://assets.editorial.aetnd.com/uploads/2009/11/yosemite-3.jpg">
 
 - 🎓 Gruadated from **University of California- San Diego** 
 - 📊 Major: **Probability and Statisitics** 
@@ -59,10 +59,3 @@ redirect_from:
 
 ![Bottom Header](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
